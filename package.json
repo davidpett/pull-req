@@ -20,7 +20,7 @@
     "pull-request"
   ],
   "author": "David Pett",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "pull-req": "./index.js"
   },
