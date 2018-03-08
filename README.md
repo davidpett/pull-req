@@ -5,6 +5,7 @@ npm i -g pull-req
 ```
 
 create your working branch, make changes and commit, then run:
+
 ```sh
 pull-req
 ```
