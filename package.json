@@ -1,6 +1,6 @@
 {
   "name": "pull-req",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "make a pull request from the command-line",
   "homepage": "https://github.com/davidpett/pull-req",
   "repository": {
