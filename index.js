@@ -24,7 +24,7 @@ cmd.get('git remote get-url origin', function(err, data, stderr) {
           if (remoteUrl.indexOf('bitbucket.org') > -1) {
             remoteUrl = remoteUrl + '/pull-requests/new?source=' + branch + '&t=1'
           }
-          if (remoteUrl.indexOd('/stash/') > -1) {
+          if (remoteUrl.indexOf('/stash/') > -1) {
             remoteUrl = remoteUrl + '/pull-requests?create'
           }
 
