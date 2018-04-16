@@ -1,6 +1,6 @@
 {
   "name": "pull-req",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "make a pull request from the command-line",
   "homepage": "https://github.com/davidpett/pull-req",
   "repository": {
@@ -14,7 +14,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cli", "git", "pull-request"],
+  "keywords": [
+    "cli",
+    "git",
+    "pull-request"
+  ],
   "author": "David Pett",
   "license": "MIT",
   "bin": {
